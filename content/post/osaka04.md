@@ -7,7 +7,7 @@ image = "img/osaka04.jpg"
 showonlyimage = false
 weight = 1
 tags = [
-    "C#",
+    "CSharp",
     "テスト自動化",
     "グラフィクス",
     "XAML",
@@ -45,9 +45,9 @@ Dec 28, 2019
 
 | ジャンル | 資料 | 発表者 |
 |:-----------|:------------|:------------:|
-| ```C#``` ```テスト自動化``` | WebアプリとかWebアプリっぽいやつのテスト自動化 | [@StoneGuitar777](https://twitter.com/StoneGuitar777) |
-| ```C#``` ```グラフィックス``` | WinUI時代のWindowsデスクトップアプリ | [福本 健治](https://twitter.com/fuku518) |
-| ```C#``` ```XAML``` | Introducing Uno Platform | [蜜葉 優](https://twitter.com/mitsuba_yu) |
+| ```CSharp``` ```テスト自動化``` | WebアプリとかWebアプリっぽいやつのテスト自動化 | [@StoneGuitar777](https://twitter.com/StoneGuitar777) |
+| ```CSharp``` ```グラフィックス``` | WinUI時代のWindowsデスクトップアプリ | [福本 健治](https://twitter.com/fuku518) |
+| ```CSharp``` ```XAML``` | Introducing Uno Platform | [蜜葉 優](https://twitter.com/mitsuba_yu) |
 | ```自動化ツール``` | Activityを作ってみよう | [@Chuki](https://twitter.com/Chuki) |
 | ```自作サービス``` | 巻数関数の裏側 | [松井 敏](https://twitter.com/moririring) |
 | ```Azure``` ```SQLServer``` | [なんでハイパーにスケールするん？](https://www.slideshare.net/odashinsuke/whats-hyperscale) | [お だ](https://twitter.com/shinsukeoda) |
