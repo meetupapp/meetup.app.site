@@ -32,7 +32,7 @@
     <item>
       <title>Azure</title>
       <link>http://meetupapp.io/tags/azure/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/azure/</guid>
       <description></description>
@@ -53,6 +53,24 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>http://meetupapp.io/tags/c#/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://meetupapp.io/tags/c&#43;&#43;/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
@@ -107,6 +125,15 @@
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/hololens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lintツール</title>
+      <link>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     
@@ -185,7 +212,7 @@
     <item>
       <title>Sqlserver</title>
       <link>http://meetupapp.io/tags/sqlserver/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/sqlserver/</guid>
       <description></description>
@@ -246,6 +273,42 @@
     </item>
     
     <item>
+      <title>Xaml</title>
+      <link>http://meetupapp.io/tags/xaml/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/xaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アーキテクチャ</title>
+      <link>http://meetupapp.io/tags/%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>グラフィクス</title>
+      <link>http://meetupapp.io/tags/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>コーディングルール</title>
+      <link>http://meetupapp.io/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>スクレイピング</title>
       <link>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
@@ -255,11 +318,38 @@
     </item>
     
     <item>
+      <title>テスト自動化</title>
+      <link>http://meetupapp.io/tags/%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>マルチプラットフォーム</title>
       <link>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自作サービス</title>
+      <link>http://meetupapp.io/tags/%E8%87%AA%E4%BD%9C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E8%87%AA%E4%BD%9C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自動化ツール</title>
+      <link>http://meetupapp.io/tags/%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     
