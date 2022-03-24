@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qt on </title>
@@ -17,8 +17,8 @@
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-tokyo-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;集まれ！イマドキのUIフレームワーク達 「UI特集」&lt;/strong&gt;&lt;br&gt;
-Jun 24, 2016 Fri&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;集まれ！イマドキのUIフレームワーク達 「UI特集」&lt;/strong&gt;&lt;br /&gt;
+Jun 24, 2016 Fri&lt;br /&gt;
 7:15p.m. - 9:45p.m.&lt;/p&gt;</description>
     </item>
     

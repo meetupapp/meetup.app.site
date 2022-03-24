@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osaka on </title>
@@ -17,8 +17,8 @@
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-osaka-4/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;2019年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br&gt;
-Dec 28, 2019&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;2019年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br /&gt;
+Dec 28, 2019&lt;br /&gt;
 1:00p.m. - 6:30p.m.&lt;/p&gt;</description>
     </item>
     
@@ -28,8 +28,8 @@ Dec 28, 2019&lt;br&gt;
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-osaka-3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;2018年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br&gt;
-Dec 22, 2018&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;2018年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br /&gt;
+Dec 22, 2018&lt;br /&gt;
 1:00p.m. - 5:00p.m.&lt;/p&gt;</description>
     </item>
     
@@ -39,8 +39,8 @@ Dec 22, 2018&lt;br&gt;
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-osaka-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;2017年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br&gt;
-Dec 23, 2017&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;2017年版！最近の開発のあれこれ&lt;/strong&gt;&lt;br /&gt;
+Dec 23, 2017&lt;br /&gt;
 1:00p.m. - 5:00p.m.&lt;/p&gt;</description>
     </item>
     
@@ -50,8 +50,8 @@ Dec 23, 2017&lt;br&gt;
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-osaka-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;最近のアプリ開発のあれこれ&lt;/strong&gt;&lt;br&gt;
-Nov 21, 2015&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;最近のアプリ開発のあれこれ&lt;/strong&gt;&lt;br /&gt;
+Nov 21, 2015&lt;br /&gt;
 1:00p.m. - 6:00p.m.&lt;/p&gt;</description>
     </item>
     

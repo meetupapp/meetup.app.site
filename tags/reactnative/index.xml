@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReactNative on </title>
@@ -17,8 +17,8 @@
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/post/meetup-app-osaka-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;最近のアプリ開発のあれこれ&lt;/strong&gt;&lt;br&gt;
-Nov 21, 2015&lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;最近のアプリ開発のあれこれ&lt;/strong&gt;&lt;br /&gt;
+Nov 21, 2015&lt;br /&gt;
 1:00p.m. - 6:00p.m.&lt;/p&gt;</description>
     </item>
     

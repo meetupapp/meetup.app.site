@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>lintツール</title>
-      <link>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SQLServer</title>
       <link>http://meetupapp.io/tags/sqlserver/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
@@ -62,6 +53,15 @@
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/xaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lintツール</title>
+      <link>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</guid>
       <description></description>
     </item>
     
@@ -138,15 +138,6 @@
     </item>
     
     <item>
-      <title>micro:bit</title>
-      <link>http://meetupapp.io/tags/microbit/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/microbit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nim</title>
       <link>http://meetupapp.io/tags/nim/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
@@ -170,6 +161,15 @@
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro:bit</title>
+      <link>http://meetupapp.io/tags/microbit/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/microbit/</guid>
       <description></description>
     </item>
     
@@ -246,15 +246,6 @@
     </item>
     
     <item>
-      <title>chainer</title>
-      <link>http://meetupapp.io/tags/chainer/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/chainer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DIGITS</title>
       <link>http://meetupapp.io/tags/digits/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
@@ -282,6 +273,15 @@
     </item>
     
     <item>
+      <title>chainer</title>
+      <link>http://meetupapp.io/tags/chainer/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/chainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Angular</title>
       <link>http://meetupapp.io/tags/angular/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
@@ -291,7 +291,7 @@
     </item>
     
     <item>
-      <title>electron</title>
+      <title>Electron</title>
       <link>http://meetupapp.io/tags/electron/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       
