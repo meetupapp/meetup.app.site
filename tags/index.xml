@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -6,53 +6,13 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://meetupapp.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Amplify</title>
-      <link>http://meetupapp.io/tags/amplify/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/amplify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angular</title>
-      <link>http://meetupapp.io/tags/angular/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/angular/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://meetupapp.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>http://meetupapp.io/tags/azure/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazor</title>
-      <link>http://meetupapp.io/tags/blazor/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/blazor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bot</title>
-      <link>http://meetupapp.io/tags/bot/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/bot/</guid>
       <description></description>
     </item>
     
@@ -66,16 +26,7 @@
     </item>
     
     <item>
-      <title>Chainer</title>
-      <link>http://meetupapp.io/tags/chainer/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/chainer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Csharp</title>
+      <title>CSharp</title>
       <link>http://meetupapp.io/tags/csharp/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -84,43 +35,7 @@
     </item>
     
     <item>
-      <title>Db</title>
-      <link>http://meetupapp.io/tags/db/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/db/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digits</title>
-      <link>http://meetupapp.io/tags/digits/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/digits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Electron</title>
-      <link>http://meetupapp.io/tags/electron/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/electron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hololens</title>
-      <link>http://meetupapp.io/tags/hololens/</link>
-      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/hololens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lintツール</title>
+      <title>lintツール</title>
       <link>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -129,79 +44,7 @@
     </item>
     
     <item>
-      <title>Microbit</title>
-      <link>http://meetupapp.io/tags/microbit/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/microbit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mithril</title>
-      <link>http://meetupapp.io/tags/mithril/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/mithril/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nim</title>
-      <link>http://meetupapp.io/tags/nim/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/nim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nosql</title>
-      <link>http://meetupapp.io/tags/nosql/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/nosql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opensource</title>
-      <link>http://meetupapp.io/tags/opensource/</link>
-      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/opensource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qt</title>
-      <link>http://meetupapp.io/tags/qt/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/qt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reactnative</title>
-      <link>http://meetupapp.io/tags/reactnative/</link>
-      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/reactnative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rpa</title>
-      <link>http://meetupapp.io/tags/rpa/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/rpa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sqlserver</title>
+      <title>SQLServer</title>
       <link>http://meetupapp.io/tags/sqlserver/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -210,61 +53,7 @@
     </item>
     
     <item>
-      <title>Swagger</title>
-      <link>http://meetupapp.io/tags/swagger/</link>
-      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/swagger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensorflow</title>
-      <link>http://meetupapp.io/tags/tensorflow/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://meetupapp.io/tags/test/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Microsoft Cognitive Toolkit</title>
-      <link>http://meetupapp.io/tags/the-microsoft-cognitive-toolkit/</link>
-      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/the-microsoft-cognitive-toolkit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity</title>
-      <link>http://meetupapp.io/tags/unity/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/unity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xamarin</title>
-      <link>http://meetupapp.io/tags/xamarin/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/xamarin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xaml</title>
+      <title>XAML</title>
       <link>http://meetupapp.io/tags/xaml/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -300,29 +89,11 @@
     </item>
     
     <item>
-      <title>スクレイピング</title>
-      <link>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>テスト自動化</title>
       <link>http://meetupapp.io/tags/%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>マルチプラットフォーム</title>
-      <link>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</guid>
       <description></description>
     </item>
     
@@ -345,11 +116,236 @@
     </item>
     
     <item>
+      <title>Amplify</title>
+      <link>http://meetupapp.io/tags/amplify/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/amplify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blazor</title>
+      <link>http://meetupapp.io/tags/blazor/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/blazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro:bit</title>
+      <link>http://meetupapp.io/tags/microbit/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/microbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nim</title>
+      <link>http://meetupapp.io/tags/nim/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/nim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>http://meetupapp.io/tags/nosql/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>http://meetupapp.io/tags/rpa/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://meetupapp.io/tags/test/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>マルチプラットフォーム</title>
+      <link>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bot</title>
+      <link>http://meetupapp.io/tags/bot/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DB</title>
+      <link>http://meetupapp.io/tags/db/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://meetupapp.io/tags/unity/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xamarin</title>
+      <link>http://meetupapp.io/tags/xamarin/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/xamarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スクレイピング</title>
+      <link>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>英会話</title>
       <link>http://meetupapp.io/tags/%E8%8B%B1%E4%BC%9A%E8%A9%B1/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://meetupapp.io/tags/%E8%8B%B1%E4%BC%9A%E8%A9%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chainer</title>
+      <link>http://meetupapp.io/tags/chainer/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/chainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGITS</title>
+      <link>http://meetupapp.io/tags/digits/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/digits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>http://meetupapp.io/tags/tensorflow/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Microsoft Cognitive Toolkit</title>
+      <link>http://meetupapp.io/tags/the-microsoft-cognitive-toolkit/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/the-microsoft-cognitive-toolkit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>http://meetupapp.io/tags/angular/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electron</title>
+      <link>http://meetupapp.io/tags/electron/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/electron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mithril</title>
+      <link>http://meetupapp.io/tags/mithril/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/mithril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qt</title>
+      <link>http://meetupapp.io/tags/qt/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/qt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoloLens</title>
+      <link>http://meetupapp.io/tags/hololens/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/hololens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSource</title>
+      <link>http://meetupapp.io/tags/opensource/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactNative</title>
+      <link>http://meetupapp.io/tags/reactnative/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/reactnative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swagger</title>
+      <link>http://meetupapp.io/tags/swagger/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://meetupapp.io/tags/swagger/</guid>
       <description></description>
     </item>
     
