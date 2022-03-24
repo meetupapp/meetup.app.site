@@ -1,158 +1,260 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>http://meetupapp.io/post/meetup-app-osaka-4/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/meetup-app-osaka-3/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/meetup-app-osaka-2/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/meetup-app-tokyo-2/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/meetup-app-tokyo-1/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/meetup-app-osaka-1/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/azure/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/c&#43;&#43;/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/categories/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/csharp/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/lint%E3%83%84%E3%83%BC%E3%83%AB/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/categories/osaka/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/post/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/sqlserver/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/xaml/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B9/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%AB/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E8%87%AA%E4%BD%9C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB/</loc>
     <lastmod>2019-12-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/about/</loc>
     <lastmod>2019-03-31T00:30:00+09:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/amplify/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/blazor/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/microbit/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/nim/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/nosql/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/rpa/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/test/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/</loc>
     <lastmod>2018-12-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/bot/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/db/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/unity/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/xamarin/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/%E8%8B%B1%E4%BC%9A%E8%A9%B1/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/chainer/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/digits/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/tensorflow/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/the-microsoft-cognitive-toolkit/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/categories/tokyo/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/angular/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/electron/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/mithril/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/qt/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/hololens/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/opensource/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/reactnative/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://meetupapp.io/tags/swagger/</loc>
     <lastmod>2015-11-21T00:00:00+00:00</lastmod>
   </url>
+  
 </urlset>
